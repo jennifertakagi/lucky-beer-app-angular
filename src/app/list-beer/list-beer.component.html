@@ -1,0 +1,36 @@
+<section class="row">
+  <div class="col m4 right-align">
+    <img class="img-1" *ngFor="let beer of listOfBeers" src="{{ beer.image_url }}">
+  </div>
+  <div class="col m4">
+    <div class="card blue-grey darken-1">
+      <div class="card-content white-text">
+        <span class="card-title" class="font-500 font-2-1 center-align">The lucky beer is</span>
+        <p class="padding-10-0">
+          <span class="font-500 font-1-2">Beer's name:</span>
+          <span class="font-1-2" *ngFor="let beer of listOfBeers">
+            {{ beer.name }}
+          </span>
+        </p>
+        <p>
+          <span class="font-500 font-1-2">IBU:</span>
+          <span class="font-1-2" *ngFor="let beer of listOfBeers">
+            {{ beer.ibu }}
+          </span>
+        </p>
+        <p class="padding-10-0">
+          <span class="font-500 font-1-2">ABV:</span>
+          <span class="font-1-2" *ngFor="let beer of listOfBeers">
+            {{ beer.abv }}
+          </span>
+        </p>
+        <p>
+          <span class="font-500 font-1-2">Beer's description:</span>
+          <span class="font-1-2" *ngFor="let beer of listOfBeers">
+            {{ beer.description }}
+          </span>
+        </p>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,14 @@
+<header class="row center-align card-panel yellow lighten-4">
+  <h1 class="col m10">
+    Find out which beer to drink today!
+  </h1>
+  <img width="100" alt="Main Logo" class="col m2 circle responsive-img" src="../assets/img-main.svg">
+  <div class="row">
+      <div class="input-field col m3 offset-m4">
+        <input id="beer_id" type="text" class="validate" [(ngModel)]="beerId">
+        <label class="font-1-2" for="beer_id">Choose a number between 1 and 200</label>
+      </div>
+      <button class="btn btn-1 waves-effect waves-light col m1 yellow darken-1" type="submit" name="action" (click)="searchBeer()">Let's drink
+      </button>
+  </div>
+</header>
