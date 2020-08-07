@@ -8,8 +8,8 @@
 
 [![Author](https://img.shields.io/badge/author-jennifertakagi-ff9000?style=flat-square)](https://github.com/jennifertakagi)
 [![Languages](https://img.shields.io/github/languages/count/jennifertakagi/lucky-beer-app-angular?color=%23ff9000&style=flat-square)](#)
-[![Stars](https://img.shields.io/github/stars/jennifertakagi/lucky-beer-app-angular?color=ff9000&style=flat-square)](https://github.com/jennifertakagi/news-app-react/stargazers)
-[![Forks](https://img.shields.io/github/forks/jennifertakagi/lucky-beer-app-angular?color=%23ff9000&style=flat-square)](https://github.com/jennifertakagi/news-app-react/network/members)
+[![Stars](https://img.shields.io/github/stars/jennifertakagi/lucky-beer-app-angular?color=ff9000&style=flat-square)](https://github.com/jennifertakagi/lucky-beer-app-angular/stargazers)
+[![Forks](https://img.shields.io/github/forks/jennifertakagi/lucky-beer-app-angular?color=%23ff9000&style=flat-square)](https://github.com/jennifertakagi/lucky-beer-app-angular/network/members)
 [![Contributors](https://img.shields.io/github/contributors/jennifertakagi/lucky-beer-app-angular?color=ff9000&style=flat-square)](https://github.com/jennifertakagi/news-app-react/graphs/contributors)
 
 ---
