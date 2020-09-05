@@ -4,7 +4,7 @@
 
 # LuckyBeer App
 
-> Are you feeling lucky today? Get some random beer! :)
+> Are you feeling lucky today? Get some random beer! :) https://lucky-beer-app-angular.vercel.app/
 
 [![Author](https://img.shields.io/badge/author-jennifertakagi-ff9000?style=flat-square)](https://github.com/jennifertakagi)
 [![Languages](https://img.shields.io/github/languages/count/jennifertakagi/lucky-beer-app-angular?color=%23ff9000&style=flat-square)](#)
