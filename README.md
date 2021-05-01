@@ -110,7 +110,7 @@ Features:
    ```
 3. Run the local environment
    ```sh
-   yarn dev | npm run dev
+   yarn start | npm run start
    ```
 
 
